@@ -1,0 +1,36 @@
+{
+  "rewrites": [
+    {
+      "source": "/lavadoras",
+      "destination": "/lavadoras.html"
+    },
+    {
+      "source": "/lavadoras/",
+      "destination": "/lavadoras.html"
+    },
+    {
+      "source": "/lavadora",
+      "destination": "/lavadoras.html"
+    },
+    {
+      "source": "/lavadora/",
+      "destination": "/lavadoras.html"
+    },
+    {
+      "source": "/ar-condicionado",
+      "destination": "/ar-condicionado.html"
+    },
+    {
+      "source": "/ar-condicionado/",
+      "destination": "/ar-condicionado.html"
+    },
+    {
+      "source": "/arcondicionado",
+      "destination": "/ar-condicionado.html"
+    },
+    {
+      "source": "/arcondicionado/",
+      "destination": "/ar-condicionado.html"
+    }
+  ]
+}
